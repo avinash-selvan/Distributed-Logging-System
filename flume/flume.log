@@ -1,0 +1,482 @@
+19 Nov 2024 19:15:11,609 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_alerts
+19 Nov 2024 19:15:11,625 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_alerts
+19 Nov 2024 19:15:11,626 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:heartbeat_source
+19 Nov 2024 19:15:11,626 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:alert_channel
+19 Nov 2024 19:15:11,626 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_logs
+19 Nov 2024 19:15:11,627 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_alerts
+19 Nov 2024 19:15:11,627 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1117)  - Added sinks: kafka_sink_logs kafka_sink_heartbeat kafka_sink_alerts Agent: agent1
+19 Nov 2024 19:15:11,631 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_heartbeat
+19 Nov 2024 19:15:11,631 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:heartbeat_channel
+19 Nov 2024 19:15:11,632 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:alert_channel
+19 Nov 2024 19:15:11,633 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:heartbeat_source
+19 Nov 2024 19:15:11,633 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:heartbeat_source
+19 Nov 2024 19:15:11,633 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:alert_channel
+19 Nov 2024 19:15:11,633 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_alerts
+19 Nov 2024 19:15:11,634 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_heartbeat
+19 Nov 2024 19:15:11,634 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:log_channel
+19 Nov 2024 19:15:11,634 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:log_source
+19 Nov 2024 19:15:11,635 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_heartbeat
+19 Nov 2024 19:15:11,636 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_alerts
+19 Nov 2024 19:15:11,638 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_logs
+19 Nov 2024 19:15:11,639 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_logs
+19 Nov 2024 19:15:11,639 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:log_source
+19 Nov 2024 19:15:11,639 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_logs
+19 Nov 2024 19:15:11,640 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_logs
+19 Nov 2024 19:15:11,641 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_heartbeat
+19 Nov 2024 19:15:11,641 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:alert_source
+19 Nov 2024 19:15:11,642 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_heartbeat
+19 Nov 2024 19:15:11,642 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:log_source
+19 Nov 2024 19:15:11,642 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_alerts
+19 Nov 2024 19:15:11,644 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:alert_source
+19 Nov 2024 19:15:11,644 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:log_channel
+19 Nov 2024 19:15:11,644 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_heartbeat
+19 Nov 2024 19:15:11,645 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka_sink_logs
+19 Nov 2024 19:15:11,648 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:alert_source
+19 Nov 2024 19:15:11,649 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:log_channel
+19 Nov 2024 19:15:11,649 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:heartbeat_channel
+19 Nov 2024 19:15:11,649 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:heartbeat_channel
+19 Nov 2024 19:15:11,650 WARN  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateConfigFilterSet:623)  - Agent configuration for 'agent1' has no configfilters.
+19 Nov 2024 19:15:11,702 INFO  [main] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:163)  - Post-validation flume configuration contains configuration for agents: [agent1]
+19 Nov 2024 19:15:11,703 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:154)  - Creating channels
+19 Nov 2024 19:15:11,724 INFO  [main] (org.apache.flume.channel.DefaultChannelFactory.create:42)  - Creating instance of channel heartbeat_channel type memory
+19 Nov 2024 19:15:11,778 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:208)  - Created channel heartbeat_channel
+19 Nov 2024 19:15:11,779 INFO  [main] (org.apache.flume.channel.DefaultChannelFactory.create:42)  - Creating instance of channel alert_channel type memory
+19 Nov 2024 19:15:11,779 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:208)  - Created channel alert_channel
+19 Nov 2024 19:15:11,779 INFO  [main] (org.apache.flume.channel.DefaultChannelFactory.create:42)  - Creating instance of channel log_channel type memory
+19 Nov 2024 19:15:11,779 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:208)  - Created channel log_channel
+19 Nov 2024 19:15:11,783 INFO  [main] (org.apache.flume.source.DefaultSourceFactory.create:41)  - Creating instance of source log_source, type exec
+19 Nov 2024 19:15:11,832 INFO  [main] (org.apache.flume.source.DefaultSourceFactory.create:41)  - Creating instance of source alert_source, type exec
+19 Nov 2024 19:15:11,834 INFO  [main] (org.apache.flume.source.DefaultSourceFactory.create:41)  - Creating instance of source heartbeat_source, type exec
+19 Nov 2024 19:15:11,835 INFO  [main] (org.apache.flume.sink.DefaultSinkFactory.create:42)  - Creating instance of sink: kafka_sink_heartbeat, type: org.apache.flume.sink.kafka.KafkaSink
+19 Nov 2024 19:15:11,880 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:366)  - topic is deprecated. Please use the parameter kafka.topic
+19 Nov 2024 19:15:11,881 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:387)  - batchSize is deprecated. Please use the parameter flumeBatchSize
+19 Nov 2024 19:15:11,881 INFO  [main] (org.apache.flume.sink.kafka.KafkaSink.configure:317)  - Using the static topic heartbeat. This may be overridden by event headers
+19 Nov 2024 19:15:11,940 INFO  [main] (org.apache.flume.sink.DefaultSinkFactory.create:42)  - Creating instance of sink: kafka_sink_logs, type: org.apache.flume.sink.kafka.KafkaSink
+19 Nov 2024 19:15:11,940 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:366)  - topic is deprecated. Please use the parameter kafka.topic
+19 Nov 2024 19:15:11,941 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:387)  - batchSize is deprecated. Please use the parameter flumeBatchSize
+19 Nov 2024 19:15:11,941 INFO  [main] (org.apache.flume.sink.kafka.KafkaSink.configure:317)  - Using the static topic logs. This may be overridden by event headers
+19 Nov 2024 19:15:11,941 INFO  [main] (org.apache.flume.sink.DefaultSinkFactory.create:42)  - Creating instance of sink: kafka_sink_alerts, type: org.apache.flume.sink.kafka.KafkaSink
+19 Nov 2024 19:15:11,942 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:366)  - topic is deprecated. Please use the parameter kafka.topic
+19 Nov 2024 19:15:11,942 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:387)  - batchSize is deprecated. Please use the parameter flumeBatchSize
+19 Nov 2024 19:15:11,942 INFO  [main] (org.apache.flume.sink.kafka.KafkaSink.configure:317)  - Using the static topic alert. This may be overridden by event headers
+19 Nov 2024 19:15:11,945 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:123)  - Channel heartbeat_channel connected to [heartbeat_source, kafka_sink_heartbeat]
+19 Nov 2024 19:15:11,945 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:123)  - Channel alert_channel connected to [alert_source, kafka_sink_alerts]
+19 Nov 2024 19:15:11,946 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:123)  - Channel log_channel connected to [log_source, kafka_sink_logs]
+19 Nov 2024 19:15:11,946 INFO  [main] (org.apache.flume.node.Application.initializeAllComponents:177)  - Initializing components
+19 Nov 2024 19:15:11,947 INFO  [main] (org.apache.flume.node.Application.startAllComponents:207)  - Starting new configuration:{ sourceRunners:{log_source=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:log_source,state:IDLE} }, alert_source=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:alert_source,state:IDLE} }, heartbeat_source=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:heartbeat_source,state:IDLE} }} sinkRunners:{kafka_sink_heartbeat=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@79145d5a counterGroup:{ name:null counters:{} } }, kafka_sink_logs=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@1f2f9244 counterGroup:{ name:null counters:{} } }, kafka_sink_alerts=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@4c4d27c8 counterGroup:{ name:null counters:{} } }} channels:{heartbeat_channel=org.apache.flume.channel.MemoryChannel{name: heartbeat_channel}, alert_channel=org.apache.flume.channel.MemoryChannel{name: alert_channel}, log_channel=org.apache.flume.channel.MemoryChannel{name: log_channel}} }
+19 Nov 2024 19:15:11,948 INFO  [main] (org.apache.flume.node.Application.startAllComponents:214)  - Starting Channel heartbeat_channel
+19 Nov 2024 19:15:11,981 INFO  [main] (org.apache.flume.node.Application.startAllComponents:214)  - Starting Channel alert_channel
+19 Nov 2024 19:15:12,003 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: alert_channel: Successfully registered new MBean.
+19 Nov 2024 19:15:12,004 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: alert_channel started
+19 Nov 2024 19:15:12,006 INFO  [main] (org.apache.flume.node.Application.startAllComponents:214)  - Starting Channel log_channel
+19 Nov 2024 19:15:12,007 INFO  [lifecycleSupervisor-1-2] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: log_channel: Successfully registered new MBean.
+19 Nov 2024 19:15:12,007 INFO  [lifecycleSupervisor-1-2] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: log_channel started
+19 Nov 2024 19:15:12,006 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: heartbeat_channel: Successfully registered new MBean.
+19 Nov 2024 19:15:12,010 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: heartbeat_channel started
+19 Nov 2024 19:15:12,013 INFO  [main] (org.apache.flume.node.Application.startAllComponents:241)  - Starting Sink kafka_sink_heartbeat
+19 Nov 2024 19:15:12,019 INFO  [main] (org.apache.flume.node.Application.startAllComponents:241)  - Starting Sink kafka_sink_logs
+19 Nov 2024 19:15:12,021 INFO  [main] (org.apache.flume.node.Application.startAllComponents:241)  - Starting Sink kafka_sink_alerts
+19 Nov 2024 19:15:12,023 INFO  [main] (org.apache.flume.node.Application.startAllComponents:252)  - Starting Source log_source
+19 Nov 2024 19:15:12,024 INFO  [lifecycleSupervisor-1-2] (org.apache.flume.source.ExecSource.start:170)  - Exec source starting with command: tail -F ../microservices/logs/microservices_logs.log
+19 Nov 2024 19:15:12,028 INFO  [lifecycleSupervisor-1-2] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: log_source: Successfully registered new MBean.
+19 Nov 2024 19:15:12,028 INFO  [lifecycleSupervisor-1-2] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: log_source started
+19 Nov 2024 19:15:12,032 INFO  [main] (org.apache.flume.node.Application.startAllComponents:252)  - Starting Source alert_source
+19 Nov 2024 19:15:12,033 INFO  [main] (org.apache.flume.node.Application.startAllComponents:252)  - Starting Source heartbeat_source
+19 Nov 2024 19:15:12,040 INFO  [lifecycleSupervisor-1-7] (org.apache.flume.source.ExecSource.start:170)  - Exec source starting with command: tail -F ../microservices/logs/heartbeat_logs.log
+19 Nov 2024 19:15:12,041 INFO  [lifecycleSupervisor-1-7] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: heartbeat_source: Successfully registered new MBean.
+19 Nov 2024 19:15:12,041 INFO  [lifecycleSupervisor-1-7] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: heartbeat_source started
+19 Nov 2024 19:15:12,039 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.source.ExecSource.start:170)  - Exec source starting with command: tail -F ../microservices/logs/alert_logs.log
+19 Nov 2024 19:15:12,041 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: alert_source: Successfully registered new MBean.
+19 Nov 2024 19:15:12,042 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: alert_source started
+19 Nov 2024 19:15:12,604 INFO  [lifecycleSupervisor-1-3] (org.apache.kafka.common.config.AbstractConfig.logAll:361)  - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+19 Nov 2024 19:15:12,607 INFO  [lifecycleSupervisor-1-4] (org.apache.kafka.common.config.AbstractConfig.logAll:361)  - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-3
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+19 Nov 2024 19:15:12,609 INFO  [lifecycleSupervisor-1-5] (org.apache.kafka.common.config.AbstractConfig.logAll:361)  - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-2
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+19 Nov 2024 19:15:13,292 INFO  [lifecycleSupervisor-1-5] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:119)  - Kafka version: 2.7.2
+19 Nov 2024 19:15:13,293 INFO  [lifecycleSupervisor-1-5] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:120)  - Kafka commitId: 37a1cc36bf4d76f3
+19 Nov 2024 19:15:13,293 INFO  [lifecycleSupervisor-1-5] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:121)  - Kafka startTimeMs: 1732023913240
+19 Nov 2024 19:15:13,298 INFO  [lifecycleSupervisor-1-4] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:119)  - Kafka version: 2.7.2
+19 Nov 2024 19:15:13,298 INFO  [lifecycleSupervisor-1-4] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:120)  - Kafka commitId: 37a1cc36bf4d76f3
+19 Nov 2024 19:15:13,299 INFO  [lifecycleSupervisor-1-4] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:121)  - Kafka startTimeMs: 1732023913272
+19 Nov 2024 19:15:13,299 INFO  [lifecycleSupervisor-1-3] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:119)  - Kafka version: 2.7.2
+19 Nov 2024 19:15:13,299 INFO  [lifecycleSupervisor-1-3] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:120)  - Kafka commitId: 37a1cc36bf4d76f3
+19 Nov 2024 19:15:13,300 INFO  [lifecycleSupervisor-1-3] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:121)  - Kafka startTimeMs: 1732023913271
+19 Nov 2024 19:15:13,302 INFO  [lifecycleSupervisor-1-5] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SINK, name: kafka_sink_alerts: Successfully registered new MBean.
+19 Nov 2024 19:15:13,307 INFO  [lifecycleSupervisor-1-4] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SINK, name: kafka_sink_heartbeat: Successfully registered new MBean.
+19 Nov 2024 19:15:13,308 INFO  [lifecycleSupervisor-1-4] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SINK, name: kafka_sink_heartbeat started
+19 Nov 2024 19:15:13,311 INFO  [lifecycleSupervisor-1-3] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SINK, name: kafka_sink_logs: Successfully registered new MBean.
+19 Nov 2024 19:15:13,312 INFO  [lifecycleSupervisor-1-3] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SINK, name: kafka_sink_logs started
+19 Nov 2024 19:15:13,312 INFO  [lifecycleSupervisor-1-5] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SINK, name: kafka_sink_alerts started
+19 Nov 2024 19:15:14,618 INFO  [kafka-producer-network-thread | producer-2] (org.apache.kafka.clients.Metadata.update:279)  - [Producer clientId=producer-2] Cluster ID: ONzwn7BKTwmjPICcug20Ig
+19 Nov 2024 19:15:14,618 INFO  [kafka-producer-network-thread | producer-3] (org.apache.kafka.clients.Metadata.update:279)  - [Producer clientId=producer-3] Cluster ID: ONzwn7BKTwmjPICcug20Ig
+19 Nov 2024 19:15:14,619 INFO  [kafka-producer-network-thread | producer-1] (org.apache.kafka.clients.Metadata.update:279)  - [Producer clientId=producer-1] Cluster ID: ONzwn7BKTwmjPICcug20Ig
+19 Nov 2024 19:27:02,539 INFO  [pool-5-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:379)  - Command [tail -F ../microservices/logs/heartbeat_logs.log] exited with 130
+19 Nov 2024 19:27:02,546 INFO  [pool-4-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:379)  - Command [tail -F ../microservices/logs/microservices_logs.log] exited with 130
+19 Nov 2024 19:27:02,544 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:140)  - Shutting down configuration: { sourceRunners:{log_source=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:log_source,state:START} }, alert_source=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:alert_source,state:START} }, heartbeat_source=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:heartbeat_source,state:START} }} sinkRunners:{kafka_sink_heartbeat=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@79145d5a counterGroup:{ name:null counters:{runner.backoffs.consecutive=2, runner.backoffs=56} } }, kafka_sink_logs=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@1f2f9244 counterGroup:{ name:null counters:{runner.backoffs.consecutive=2, runner.backoffs=40} } }, kafka_sink_alerts=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@4c4d27c8 counterGroup:{ name:null counters:{runner.backoffs.consecutive=4, runner.backoffs=98} } }} channels:{heartbeat_channel=org.apache.flume.channel.MemoryChannel{name: heartbeat_channel}, alert_channel=org.apache.flume.channel.MemoryChannel{name: alert_channel}, log_channel=org.apache.flume.channel.MemoryChannel{name: log_channel}} }
+19 Nov 2024 19:27:02,548 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:144)  - Stopping Source log_source
+19 Nov 2024 19:27:02,539 INFO  [pool-6-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:379)  - Command [tail -F ../microservices/logs/alert_logs.log] exited with 130
+19 Nov 2024 19:27:02,551 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:log_source,state:START} }
+19 Nov 2024 19:27:02,551 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:190)  - Stopping exec source with command: tail -F ../microservices/logs/microservices_logs.log
+19 Nov 2024 19:27:02,553 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: log_source stopped
+19 Nov 2024 19:27:02,553 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: log_source. source.start.time == 1732023912028
+19 Nov 2024 19:27:02,553 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: log_source. source.stop.time == 1732024622553
+19 Nov 2024 19:27:02,554 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.append-batch.accepted == 0
+19 Nov 2024 19:27:02,554 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.append-batch.received == 0
+19 Nov 2024 19:27:02,554 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.append.accepted == 0
+19 Nov 2024 19:27:02,554 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.append.received == 0
+19 Nov 2024 19:27:02,554 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.channel.write.fail == 0
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.event.read.fail == 0
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.events.accepted == 215
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.events.received == 215
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.generic.processing.fail == 0
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: log_source. src.open-connection.count == 0
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:144)  - Stopping Source alert_source
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:alert_source,state:START} }
+19 Nov 2024 19:27:02,555 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:190)  - Stopping exec source with command: tail -F ../microservices/logs/alert_logs.log
+19 Nov 2024 19:27:02,559 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: alert_source stopped
+19 Nov 2024 19:27:02,560 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: alert_source. source.start.time == 1732023912042
+19 Nov 2024 19:27:02,560 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: alert_source. source.stop.time == 1732024622559
+19 Nov 2024 19:27:02,560 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.append-batch.accepted == 0
+19 Nov 2024 19:27:02,560 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.append-batch.received == 0
+19 Nov 2024 19:27:02,560 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.append.accepted == 0
+19 Nov 2024 19:27:02,560 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.append.received == 0
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.channel.write.fail == 0
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.event.read.fail == 0
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.events.accepted == 40
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.events.received == 40
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.generic.processing.fail == 0
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: alert_source. src.open-connection.count == 0
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:144)  - Stopping Source heartbeat_source
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:heartbeat_source,state:START} }
+19 Nov 2024 19:27:02,561 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:190)  - Stopping exec source with command: tail -F ../microservices/logs/heartbeat_logs.log
+19 Nov 2024 19:27:02,562 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: heartbeat_source stopped
+19 Nov 2024 19:27:02,562 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. source.start.time == 1732023912041
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. source.stop.time == 1732024622562
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.append-batch.accepted == 0
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.append-batch.received == 0
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.append.accepted == 0
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.append.received == 0
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.channel.write.fail == 0
+19 Nov 2024 19:27:02,563 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.event.read.fail == 0
+19 Nov 2024 19:27:02,564 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.events.accepted == 112
+19 Nov 2024 19:27:02,564 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.events.received == 112
+19 Nov 2024 19:27:02,564 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.generic.processing.fail == 0
+19 Nov 2024 19:27:02,564 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: heartbeat_source. src.open-connection.count == 0
+19 Nov 2024 19:27:02,564 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:154)  - Stopping Sink kafka_sink_heartbeat
+19 Nov 2024 19:27:02,564 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@79145d5a counterGroup:{ name:null counters:{runner.backoffs.consecutive=2, runner.backoffs=56} } }
+19 Nov 2024 19:27:02,567 INFO  [agent-shutdown-hook] (org.apache.kafka.clients.producer.KafkaProducer.close:1205)  - [Producer clientId=producer-3] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms.
+19 Nov 2024 19:27:02,593 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:668)  - Metrics scheduler closed
+19 Nov 2024 19:27:02,594 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:672)  - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+19 Nov 2024 19:27:02,594 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:678)  - Metrics reporters closed
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.kafka.common.utils.AppInfoParser.unregisterAppInfo:83)  - App info kafka.producer for producer-3 unregistered
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SINK, name: kafka_sink_heartbeat stopped
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.start.time == 1732023913308
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.stop.time == 1732024622596
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. channel.kafka.event.send.time == 348253
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. channel.rollback.count == 0
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.batch.complete == 0
+19 Nov 2024 19:27:02,596 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.batch.empty == 57
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.batch.underflow == 78
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.channel.read.fail == 0
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.connection.closed.count == 0
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.connection.creation.count == 0
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.connection.failed.count == 0
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.event.drain.attempt == 112
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.event.drain.sucess == 112
+19 Nov 2024 19:27:02,597 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_heartbeat. sink.event.write.fail == 0
+19 Nov 2024 19:27:02,598 INFO  [agent-shutdown-hook] (org.apache.flume.sink.kafka.KafkaSink.stop:289)  - Kafka Sink kafka_sink_heartbeat stopped. Metrics: SINK:kafka_sink_heartbeat{sink.batch.underflow=78, sink.event.write.fail=0, sink.connection.failed.count=0, sink.channel.read.fail=0, sink.connection.closed.count=0, channel.kafka.event.send.time=348253, sink.event.drain.attempt=112, sink.batch.complete=0, sink.event.drain.sucess=112, sink.connection.creation.count=0, channel.rollback.count=0, sink.batch.empty=57}
+19 Nov 2024 19:27:02,598 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:154)  - Stopping Sink kafka_sink_logs
+19 Nov 2024 19:27:02,598 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@1f2f9244 counterGroup:{ name:null counters:{runner.backoffs.consecutive=2, runner.backoffs=40} } }
+19 Nov 2024 19:27:02,599 INFO  [agent-shutdown-hook] (org.apache.kafka.clients.producer.KafkaProducer.close:1205)  - [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms.
+19 Nov 2024 19:27:02,603 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:668)  - Metrics scheduler closed
+19 Nov 2024 19:27:02,604 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:672)  - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+19 Nov 2024 19:27:02,604 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:678)  - Metrics reporters closed
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.kafka.common.utils.AppInfoParser.unregisterAppInfo:83)  - App info kafka.producer for producer-1 unregistered
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SINK, name: kafka_sink_logs stopped
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.start.time == 1732023913312
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.stop.time == 1732024622605
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. channel.kafka.event.send.time == 414384
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. channel.rollback.count == 0
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.batch.complete == 0
+19 Nov 2024 19:27:02,605 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.batch.empty == 41
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.batch.underflow == 41
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.channel.read.fail == 0
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.connection.closed.count == 0
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.connection.creation.count == 0
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.connection.failed.count == 0
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.event.drain.attempt == 215
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.event.drain.sucess == 215
+19 Nov 2024 19:27:02,606 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_logs. sink.event.write.fail == 0
+19 Nov 2024 19:27:02,607 INFO  [agent-shutdown-hook] (org.apache.flume.sink.kafka.KafkaSink.stop:289)  - Kafka Sink kafka_sink_logs stopped. Metrics: SINK:kafka_sink_logs{sink.batch.underflow=41, sink.event.write.fail=0, sink.connection.failed.count=0, sink.channel.read.fail=0, sink.connection.closed.count=0, channel.kafka.event.send.time=414384, sink.event.drain.attempt=215, sink.batch.complete=0, sink.event.drain.sucess=215, sink.connection.creation.count=0, channel.rollback.count=0, sink.batch.empty=41}
+19 Nov 2024 19:27:02,607 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:154)  - Stopping Sink kafka_sink_alerts
+19 Nov 2024 19:27:02,607 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@4c4d27c8 counterGroup:{ name:null counters:{runner.backoffs.consecutive=4, runner.backoffs=98} } }
+19 Nov 2024 19:27:02,617 INFO  [agent-shutdown-hook] (org.apache.kafka.clients.producer.KafkaProducer.close:1205)  - [Producer clientId=producer-2] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms.
+19 Nov 2024 19:27:02,621 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:668)  - Metrics scheduler closed
+19 Nov 2024 19:27:02,621 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:672)  - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+19 Nov 2024 19:27:02,621 INFO  [agent-shutdown-hook] (org.apache.kafka.common.metrics.Metrics.close:678)  - Metrics reporters closed
+19 Nov 2024 19:27:02,622 INFO  [agent-shutdown-hook] (org.apache.kafka.common.utils.AppInfoParser.unregisterAppInfo:83)  - App info kafka.producer for producer-2 unregistered
+19 Nov 2024 19:27:02,622 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SINK, name: kafka_sink_alerts stopped
+19 Nov 2024 19:27:02,622 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.start.time == 1732023913303
+19 Nov 2024 19:27:02,622 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.stop.time == 1732024622622
+19 Nov 2024 19:27:02,622 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. channel.kafka.event.send.time == 143130
+19 Nov 2024 19:27:02,622 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. channel.rollback.count == 0
+19 Nov 2024 19:27:02,624 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.batch.complete == 0
+19 Nov 2024 19:27:02,624 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.batch.empty == 98
+19 Nov 2024 19:27:02,624 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.batch.underflow == 38
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.channel.read.fail == 0
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.connection.closed.count == 0
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.connection.creation.count == 0
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.connection.failed.count == 0
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.event.drain.attempt == 40
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.event.drain.sucess == 40
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SINK, name: kafka_sink_alerts. sink.event.write.fail == 0
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.sink.kafka.KafkaSink.stop:289)  - Kafka Sink kafka_sink_alerts stopped. Metrics: SINK:kafka_sink_alerts{sink.batch.underflow=38, sink.event.write.fail=0, sink.connection.failed.count=0, sink.channel.read.fail=0, sink.connection.closed.count=0, channel.kafka.event.send.time=143130, sink.event.drain.attempt=40, sink.batch.complete=0, sink.event.drain.sucess=40, sink.connection.creation.count=0, channel.rollback.count=0, sink.batch.empty=98}
+19 Nov 2024 19:27:02,625 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:164)  - Stopping Channel heartbeat_channel
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: org.apache.flume.channel.MemoryChannel{name: heartbeat_channel}
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: heartbeat_channel stopped
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.start.time == 1732023912010
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.stop.time == 1732024622626
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.capacity == 500
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.current.size == 0
+19 Nov 2024 19:27:02,626 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.event.put.attempt == 112
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.event.put.success == 112
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.event.take.attempt == 247
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: heartbeat_channel. channel.event.take.success == 112
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:164)  - Stopping Channel alert_channel
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: org.apache.flume.channel.MemoryChannel{name: alert_channel}
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: alert_channel stopped
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.start.time == 1732023912004
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.stop.time == 1732024622627
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.capacity == 500
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.current.size == 0
+19 Nov 2024 19:27:02,627 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.event.put.attempt == 40
+19 Nov 2024 19:27:02,628 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.event.put.success == 40
+19 Nov 2024 19:27:02,628 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.event.take.attempt == 176
+19 Nov 2024 19:27:02,628 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: alert_channel. channel.event.take.success == 40
+19 Nov 2024 19:27:02,628 INFO  [agent-shutdown-hook] (org.apache.flume.node.Application.stopAllComponents:164)  - Stopping Channel log_channel
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.unsupervise:169)  - Stopping component: org.apache.flume.channel.MemoryChannel{name: log_channel}
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: log_channel stopped
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.start.time == 1732023912007
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.stop.time == 1732024622629
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.capacity == 500
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.current.size == 0
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.event.put.attempt == 215
+19 Nov 2024 19:27:02,629 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.event.put.success == 215
+19 Nov 2024 19:27:02,630 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.event.take.attempt == 297
+19 Nov 2024 19:27:02,630 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: log_channel. channel.event.take.success == 215
+19 Nov 2024 19:27:02,630 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:78)  - Stopping lifecycle supervisor 23
